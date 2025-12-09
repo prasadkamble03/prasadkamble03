@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack projects using MERN Stack (MongoDB, Express, React, Node.js)<br><br>Improving my Data Structures & Algorithms skills in C++<br><br>Building real-world applications to strengthen my development workflow<br><br>🤝 I’m looking to collaborate on<br><br>MERN stack projects (frontend, backend, or full-stack)<br><br>Open-source projects using JavaScript/TypeScript or C++<br><br>DSA problem discussions and coding sessions<br><br>🤔 I’m looking for help with<br><br>Writing scalable backend architectures<br><br>Implementing advanced React patterns<br><br>Mastering high-level DSA concepts & problem-solving<br><br>🌱 I’m currently learning<br><br>Advanced React (Hooks, Context, Redux Toolkit)<br><br>Node.js + Express best practices<br><br>C++ STL and competitive programming techniques<br><br>Database design, authentication & deployment<br><br>💬 Ask me about<br><br>MERN stack development<br><br>APIs, authentication, JWT, and full-stack workflows<br><br>C++ problem-solving, STL, and algorithms<br><br>How I combine DSA + development to become a better engineer<br><br>⚡ Fun fact<br><br>I love switching between full-stack development and hard-core DSA — keeps my brain balanced 😄<br><br>I break things just to learn how to fix them!
+
 
 
 ## 🌐 Socials:
